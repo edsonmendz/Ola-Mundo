@@ -1,2 +1,3 @@
-# Ola Mundo
- projeto simples para aprender a utilizar git+github
+# Olá, Mundo
+
+ Projeto simples para aprender a utilizar git+github
